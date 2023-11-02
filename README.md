@@ -5,7 +5,7 @@ E-commerce Website: An ecommerce website where you’ll show product listings fr
 1. ATUL KRISHNA [https://github.com/arkatulk]
 2. HRIDHYA E K [https://github.com/hridhya92]
 3. BIJIL K P [https://github.com/the-unknown-monkey]
-4. ARJUN VK [https://github.com/hridhya92]
+4. ARJUN VK [https://github.com/VK-ARJUN]
 ## Team Id
 clt-alt dlt
 ## Link to product walkthrough
