@@ -1,11 +1,11 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+#  E-Commerce Website
+E-commerce Website: An ecommerce website where you’ll show product listings from a database, and a user will have the option to add products to their cart and see a total bill amount.
 ## Team members
-1. Name [Embed personal github URL]
+1. Atul Krishna [https://github.com/arkatulk]
 2. Name [Embed perosnal github URL]
 ## Team Id
-Team id here
+clt-alt dlt
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
