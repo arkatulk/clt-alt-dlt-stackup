@@ -3,7 +3,9 @@
 E-commerce Website: An ecommerce website where you’ll show product listings from a database, and a user will have the option to add products to their cart and see a total bill amount.
 ## Team members
 1. Atul Krishna [https://github.com/arkatulk]
-2. Name [Embed perosnal github URL]
+2. Hridhya E K [https://github.com/hridhya92]
+3. Bijil [https://github.com/hridhya92]
+4. Arjun VK [https://github.com/hridhya92]
 ## Team Id
 clt-alt dlt
 ## Link to product walkthrough
