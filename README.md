@@ -1,4 +1,4 @@
-[StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
+![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 #  E-Commerce Website
 E-commerce Website: An ecommerce website where you’ll show product listings from a database, and a user will have the option to add products to their cart and see a total bill amount.
 ## Team members
